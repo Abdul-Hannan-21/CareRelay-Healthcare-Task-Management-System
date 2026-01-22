@@ -129,7 +129,7 @@ care-relay/
 ### Prerequisites
 - Node.js 18+ and npm
 
-### Local Development
+### Local Development and Github codespace
 
 1. **Clone the repository**
    ```bash
@@ -142,12 +142,9 @@ care-relay/
    npm install
    ```
 
-3. **Start Convex**
-   ```bash
-   npx convex dev
-   ```
 
-4. **Run the application**
+
+3. **Run the application**
    ```bash
    npm run dev
    ```
@@ -163,4 +160,5 @@ care-relay/
 - Anusuya Kugavarathan
 - Muhammad Ahmed Shabab
 - Tanvi Tandale
+
 
